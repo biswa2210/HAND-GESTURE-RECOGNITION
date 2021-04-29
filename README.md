@@ -36,13 +36,13 @@
 
 ## Screenshots :point_down: 
 <div align="center">
-<a href="hg1.PNG"><img src="hg1.PNG" width="420" height= "250"></a> <a href="hg2.PNG"><img src="hg2.PNG" width="420" height= "250"></a>
+<a href="hg1.PNG"><img src="hg1.PNG" width="400" height= "250"></a> <a href="hg2.PNG"><img src="hg2.PNG" width="400" height= "250"></a>
 
-<a href="hg3.PNG"><img src="hg3.PNG" width="420" height= "250"></a> <a href="hg4.PNG"><img src="hg4.PNG" width="420" height= "250"></a>
+<a href="hg3.PNG"><img src="hg3.PNG" width="400" height= "250"></a> <a href="hg4.PNG"><img src="hg4.PNG" width="400" height= "250"></a>
 
-<a href="hg5.PNG"><img src="hg5.PNG" width="420" height= "250"></a> <a href="hg6.PNG"><img src="hg6.PNG" width="420" height= "250"></a>
+<a href="hg5.PNG"><img src="hg5.PNG" width="400" height= "250"></a> <a href="hg6.PNG"><img src="hg6.PNG" width="400" height= "250"></a>
 
-<a href="hg7.PNG"><img src="hg7.PNG" width="420" height= "250"></a> <a href="hg8.PNG"><img src="hg8.PNG" width="420" height= "250"></a>
+<a href="hg7.PNG"><img src="hg7.PNG" width="400" height= "250"></a> <a href="hg8.PNG"><img src="hg8.PNG" width="400" height= "250"></a>
 </div>
 
 
