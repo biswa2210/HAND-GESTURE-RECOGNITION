@@ -1,6 +1,6 @@
 # HAND-GESTURE-RECOGNITION :star_struck:
 
-[![Generic badge]()](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-Python3-yellowgreen)](https://shields.io/) [![Generic badge]()](https://shields.io/) [![Generic badge]()](https://shields.io/) [![Generic badge]()](https://shields.io/) [![Generic badge]()](https://shields.io/) [![Generic badge]()](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/hand%20-gesture-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-Python3-yellowgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/module-numpy-ff69b4)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/module%20-cv2-success)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/computer-vision-blueviolet)](https://shields.io/) [![Generic badge]()](https://shields.io/) [![Generic badge](https://img.shields.io/badge/module-math-critical)](https://shields.io/)
 ***This new Web application is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
 
 **Email Id: bbiswa471@gmail.com.** 
@@ -12,12 +12,7 @@
 ## About :point_down: 
 
 
-**:point_right: [click here to read Project1 Research Paper](https://github.com/biswa2210/PROJECT-1-UEMK/blob/master/3rdSemProject1ResearchPaper.pdf)<br>
-:point_right: [click here to see Project1 PowerPoint Presentation](https://drive.google.com/file/d/16rftW-uNvv6KIOxdEnpGsC0js1hqR0Fi/view)<br>
-:point_right: [click here to view or download Project1 Demo Video](https://drive.google.com/file/d/1tpUvWbsJbWVD_u-boNK_VNQJz8GSQ5fi/view)**
-
-## Working Principle :point_down:
-
+**:point_right: [click here to view or download Demo Video of this project]()**
 
 ## Purpose :point_down:
 
