@@ -25,12 +25,18 @@
 
 ## Folder Structure :point_down:
 ```bash
-
+HAND-GESTURE-RECOGNITION
      ├── .idea
+     |      ├── inspectionProfiles
+     |      |          └── profiles_settings.xml
+     |      ├── HAND GESTURE RECOGNITION.iml
+     |      ├── misc.xml
+     |      └── modules.xml
+     ├── capture.png
+     ├── hand gesture recognition.py
+     └── part1.py
 
-     └── rootwallpaper.jpg 
 ```                       
-
 ## Making :point_down:
 
 
