@@ -18,7 +18,7 @@ using the Haar-cascade Classifier to track the appearance of hand before the ima
 **:point_right: [click here to view or download Demo Video of this project](https://drive.google.com/file/d/1GZ9FvfGjo6xBK1YKJENIv0KINdOazDue/view)**
 
 ## Purpose :point_down:
-
+The goal of static hand gesture recognition is to classify the given hand gesture data represented by some features into some predefined finite number of gesture classes. The main objective of this effort is to explore the utility of two feature extraction methods, namely, hand contour and complex moments to solve the hand gesture recognition problem by identifying the primary advantages and disadvantages of each method.
 
 ## Use :point_down:
 User just has to take his hand before the web cam and run the program. Then he can see the number of fingures shown.
@@ -41,7 +41,7 @@ HAND-GESTURE-RECOGNITION
 
 ```                       
 ## Making :point_down:
-The overview of the hand gesture recognition is described in Figure 1. First, the hand is detected using the background subtraction method and the result of hand detection is transformed to a binary image. Then, the fingers and palm are segmented so as to facilitate the finger recognition. Moreover, the fingers are detected and recognized. Last, hand gestures are recognized using a simple rule classifier.
+I have made this hand gesture recognition using python3. First, the hand is detected using the background subtraction method and the result of hand detection is transformed to a binary image. Then, the fingers and palm are segmented so as to facilitate the finger recognition. Moreover, the fingers are detected and recognized. Last, hand gestures are recognized using a simple rule classifier. I have installed opencv module for live detection using web camera .I have done this for capturing and reading the images.I have taken in rectangle.I have used gausian blur. I have converted the rgb(red green blue) images in hsv(hue saturation value). I have used dialusion andd erosion for filtering the images. I have used threshold function. I have used contours grid for counting the fingers in hand.
 
 ## Screenshots :point_down: 
 <div align="center">
