@@ -6,6 +6,9 @@ ret, the = cv2.threshold(hand, 70, 255, cv2.THRESH_BINARY)
 contours,_ = cv2.findContours(the.copy(),cv2.RETR_TREE,cv2.CHAIN_APPROX_SIMPLE)
 hull = [cv2.convexHull(c) for c in contours]
 final = cv2.drawContours(hand, hull, -1, (255,0,0))
+#CREATED BY BISWARUP BHATTACHARJEE
+#EMAIL    : bbiswa471@gmail.com
+#PHONE NO : 6290272740
 
 cv2.imshow('Originals', hand)
 cv2.imshow('Thresh',the)
