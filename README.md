@@ -23,10 +23,12 @@
 **This is a software or program which counts user's number of fingers shown before the webcam. When user takes his hand before the camera and shows fingures we can see the number is shown.** We can show fingures in many ways, which ever we want. It shows appropiate and correct result. In a day-to-day life, hand gesture recognition is one of the system that can detect the gesture of hand in a real time video. The gesture of hand is classify within a certain area of interest. Designing a system for hand gesture recognition is one of the goal of achieving the objectives of this project. The task of recognizing hand gestures is one of the main and important issues in computer vision. With the latest advances in information and media technology, human computer interaction (HCI) systems that involve hand processing tasks such as hand detection and hand gesture recognition. In this study, designing of the hand gesture recognition is one of the complicated job that involves two major problem. Firstly is the detection of hand. User hand is detected by using webcam in real-time video. The problem would be the unstable brightness, noise, poor resolution and contrast. The detected hand in the video are recognized to identify the gestures. At this stage, the process involves are the segmentation and edge detection. This study comprises on how to implement a complete system that can detect, recognizing and interpreting the hand by using Python and OpenCV in any intensity of light, pose or orientation of hand. In order to accomplish this, a real-time gesture based system is developed. In the proposal stage, designing a system that could detect the hand through the contour of the hand. The contour of the hand refers to the curve for a two variables for the function along which that function has a contact value that is not changed. Besides, to detect the appearance of hand in a frame of the real-time video, I will be using the Haar-cascade Classifier to track the appearance of hand before the image-processing is done. The result of the appearance of hand that the system could detect will be validated for analysis. For hardware implementation section, a wired web camera is used thus the hand gesture recognition can be done and implemented. 
 </div>
 
+ ## HAND GESTURE RECOGNITION SYSTEM DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=yMQ7gzpFWlE&list=PL0lbDlMJ1h4jrRuH-A6njkMA3iYmRhxIO&index=2">Click here to watch</a>
+
+## AIML-DL PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=K0AAxrbzLFg&list=PL0lbDlMJ1h4jrRuH-A6njkMA3iYmRhxIO">Click here to watch</a>
+
 ## The Software uses :point_down:
  - [x] open Computer vision through web camera
-
-**:point_right: [click here to view or download Demo Video of this project](https://drive.google.com/file/d/17t7bh1p3gi6wsdNxaq9kjEimxq_6J99D/view)**
 
 ## Purpose :point_down:
 
